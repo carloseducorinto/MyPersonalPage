@@ -79,7 +79,7 @@ st.write('\n')
 #from PIL import Image
 #width = st.slider('What is the width in pixels?', 0, 700, 350)
 #put your own image here
-#image = Image.open(image_path)
+#image = Image.open(image_path) 
 #st.image(image, caption='Entrevista Jornal O Globo', width=350)
 print('sucesso') 
 st.write('\n')
