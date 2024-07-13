@@ -1,0 +1,4 @@
+#https://www.youtube.com/watch?v=9n4Ch2Dgex0
+#https://github.com/ComposioHQ/composio/blob/master/python/examples/sql_agent/sql_agent_plotter_crewai/main.py
+#https://github.com/D1EE7P2U9/GenAI/blob/main/SQL_database_query%26summarization_withcrewAI/app.py
+#https://blog.streamlit.io/land-your-dream-job-build-your-portfolio-with-streamlit/#step-2-build-your-chatbot
