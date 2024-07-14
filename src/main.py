@@ -37,7 +37,7 @@ pg = st.navigation(
 
 
 # --- Shared on All Pages 
-st.logo("../assets/cadu_logo_v1.png") 
+#st.logo("../assets/cadu_logo_v1.png") 
 #st.sidebar.text('Made by Cadu Santos')
 
 # --- Run Navigation
