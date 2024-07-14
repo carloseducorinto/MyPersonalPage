@@ -10,14 +10,14 @@ about_page = st.Page(
 )
 
 first_project_page = st.Page(
-    page = "../views/sales_dashboard.py",
-    title="Sales Dashboard",
+    page = "../views/first_project.py",
+    title="First Project",
     icon=":material/bar_chart:", 
 )
 
 second_project_page = st.Page(
-    page = "../views/chatbot.py",
-    title="Chat Bot",
+    page = "../views/second_project.py",
+    title="Second Project",
     icon=":material/smart_toy:", 
 )
 
